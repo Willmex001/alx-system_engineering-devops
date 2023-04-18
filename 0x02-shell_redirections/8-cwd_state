@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "ls_cwd_content=ls -la"
+printf "ls -la > ls_cwd_content"
